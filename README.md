@@ -42,7 +42,6 @@ As a user I would like:
 
 * Postgres Database
     
-    
 ### Installation Process
 ```
 * $ git clone 
