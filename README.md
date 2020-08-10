@@ -1,9 +1,9 @@
 # Instagram
 
 #### This is a photo posting website created using Django.
+ 
 
-
-#### By **ALI HAFRED**
+#### By **HANAD AHMED**
 
 ## Description
 This is a photo posting website created using Django. A user with an account can:
@@ -33,8 +33,13 @@ As a user I would like:
 ## Setup/Installation Requirements
 
 ### Prerequisites
-* Python 3.6.7
+* Python 3.6.9
 * Virtual environment
+
+
+
+
+
 * Postgres Database
 
 
@@ -57,10 +62,6 @@ $ python3.6 manage.py runserver
 $ python3.6 manage.py test
 ```
 
-## Known Bugs
-
-A number of user story functionalities are not yet enabled
-
 
 ## Technologies Used
 - Python3.6
@@ -73,6 +74,4 @@ A number of user story functionalities are not yet enabled
 
 ### License
 
-MIT (c) 2020 **ali hared**
-
-
+MIT (c) 2020 **hanad ahmed**
